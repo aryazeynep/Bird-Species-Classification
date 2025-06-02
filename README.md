@@ -50,7 +50,7 @@ This project focuses on classifying bird species using various Machine Learning 
 
 ### 🔹 Part 3: Fine-Tuning Pretrained CNNs
 
-- **Selected Models**: At least 3 pretrained CNNs 
+- **Selected Models**: 3 pretrained CNNs 
 - **Methodology**:
   - Fine-tune models on the dataset
   - Plot and analyze training/validation loss and accuracy
